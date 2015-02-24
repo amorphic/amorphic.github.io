@@ -45,6 +45,7 @@ __Systems Manager__ <br> _03/2005 - 06/2009_
 
     * Installation and support of CentOS 5.x servers running Apache 2.x and load balanced with LVS to serve >10k unique visitors and >1 million hits/day.
     * Rollout of New York co-location based on Squid reverse proxies and Citrix WANScaler network accelerators reducing download times for US customers by >50%.
+    * Administration of Oracle 10g RDBMS backend.
     * Monitoring using Nagios, Cacti and Zenoss.
     * Implementation of Subversion/TRAC and formal daily code release system.
     * Management of capex/opex budgets and reporting to senior staff.
@@ -56,8 +57,8 @@ __Operations Manager__ <br> _10/2003 - 02/2005_
 
 :   Systems Administration role responsible for all operational aspects of a mobile content delivery system.
 
-    * Build + support ofRedhat ES 3.x servers running in-house mobile phone content delivery system (J2EE/JBoss/Tomcat).
-    * Administration of Oracle 9i RDBMS back end.
+    * Installation and support of Redhat ES 3.x servers running in-house mobile phone content delivery system (J2EE/JBoss/Tomcat).
+    * Administration of Oracle 9i RDBMS backend.
     * Configuration of WLANs and VPNs at client sites for content delivery.
     * Design and development of football community websites using HTML, XML/XSLT and PHP.
 
