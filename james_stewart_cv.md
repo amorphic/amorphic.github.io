@@ -16,7 +16,7 @@ __Tools Developer__ <br> _09/2013 - present_
     * Design of RESTful APIs with backends built on Postgresql, Redis and MongoDB.
     * Development of Python libraries to simplify interaction with internal services.
     * Frontend development using HTML, Twitter Bootstrap, CSS and Javascript/JQuery.
-    * Unlocking the value in Graphite metrics through the championing of Grafana.\
+    * Unlocking the value in Graphite metrics by championing Grafana.
 
 __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
