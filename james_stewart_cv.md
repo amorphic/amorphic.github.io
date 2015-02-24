@@ -10,7 +10,7 @@
 ###Optiver Asia Pacific - _Sydney, Australia_
 __Tools Developer__ <br> _09/2013 - present_
 
-:   Part of a devops team practicing Kanban and delivering tooling to various departments across the business. 
+:   Part of a Devops team practicing Kanban and delivering tooling to various departments across the business. 
 
     * Development of numerous microservices built on Flask and Django.
     * Design of RESTful APIs with backends built on Postgresql, Redis and MongoDB.
@@ -30,7 +30,7 @@ __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 ---
 
 ###Travelling - London to Sydney
-_06/2009 - 02/2010_ 
+__Nomad__ <br> _06/2009 - 02/2010_
 
 :   An epic journey across the planet from London to Sydney without catching planes. Western Europe, the Baltics, Scandinavia, Eastern Europe, the Middle East, (through Turkey, Iran and Pakistan), India, Nepal, Tibet, China and home through South-East Asia.
 
@@ -41,7 +41,7 @@ _06/2009 - 02/2010_
 ###Beam.tv/The Mill - London, United Kingdom
 __Systems Manager__ <br> _03/2005 - 06/2009_
 
-:   Senior systems administration role. Responsible for junior sysadmin and all operational aspects of the Beam.tv web site across 3 data centres.
+:   Senior Systems Administration role responsible for junior sysadmin and all operational aspects of the Beam.tv web site across 3 data centres.
 
     * Installation and support of CentOS 5.x servers running Apache 2.x and load balanced with LVS to serve >10k unique visitors and >1 million hits/day.
     * Rollout of New York co-location based on Squid reverse proxies and Citrix WANScaler network accelerators reducing download times for US customers by >50%.
@@ -54,7 +54,7 @@ __Systems Manager__ <br> _03/2005 - 06/2009_
 ###InciteMVNE - London, United Kingdom
 __Operations Manager__ <br> _10/2003 - 02/2005_
 
-:   Systems administration role. Responsible for all operational aspects of a mobile content delivery system.
+:   Systems Administration role responsible for all operational aspects of a mobile content delivery system.
 
     * Build + support ofRedhat ES 3.x servers running in-house mobile phone content delivery system (J2EE/JBoss/Tomcat).
     * Administration of Oracle 9i RDBMS back end.
