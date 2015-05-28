@@ -85,6 +85,10 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 
 ##Projects
 
+[SparkCC][sparkcc]
+
+:   President and co-founder of SparkCC: a makerspace/hackerspace located on the Central Coast of New South Wales, Australia.
+
 [Braubbuddy][braubuddy]
 
 :   Braubuddy is an Open Source temperature management framework written in Python. Conceived as a means of monitoring and controlling the fermentation temperature of beer.
@@ -116,6 +120,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 [twitter]: https://twitter.com/amorphic
 [github]: https://github.com/amorphic
 [jimternet]: http://jimter.net
+[sparkcc]: http://sparkcc.org
 [braubuddy]: http://braubuddy.org
 [tosr0x]: https://github.com/amorphic/tosr0x
 [tinysine]: http://www.tinyosshop.com
