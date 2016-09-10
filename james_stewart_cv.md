@@ -116,6 +116,16 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 
 :   CoverLovin is an Open Source album cover art downloader written in Python. It recursively traverses a directory structure containing mp3 files and downloads cover art from Google Images based on id3 tags.
 
+##Presentations
+
+###Controlling a 3D Printer with Python
+
+08/2016
+:	PyCon Australia Sydney ([video][opengb_talk])
+
+07/2016
+:	Sydney Python User Group
+
 ##Qualifications
 
 1998-2001
@@ -141,3 +151,4 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 [tosr0x]: https://github.com/amorphic/tosr0x
 [tinysine]: http://www.tinyosshop.com
 [coverlovin]: https://github.com/amorphic/coverlovin
+[opengb_talk]: https://www.youtube.com/watch?v=qgvnPB_77z8
