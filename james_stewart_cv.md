@@ -100,6 +100,10 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 
 :   President and co-founder of SparkCC: a makerspace/hackerspace located on the Central Coast of New South Wales, Australia.
 
+[OpenGB][opengb]
+
+:	OpenGB is a 3D printer control interface written in Python. Printer functions are exposed via a websocket API and called either programatically or by an included touchscreen GUI written in Vue.js.
+
 [Braubbuddy][braubuddy]
 
 :   Braubuddy is an Open Source temperature management framework written in Python. Conceived as a means of monitoring and controlling the fermentation temperature of beer.
@@ -132,6 +136,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 [github]: https://github.com/amorphic
 [jimternet]: http://jimter.net
 [sparkcc]: http://sparkcc.org
+[opengb]: http://opengb.readthedocs.io
 [braubuddy]: http://braubuddy.org
 [tosr0x]: https://github.com/amorphic/tosr0x
 [tinysine]: http://www.tinyosshop.com
