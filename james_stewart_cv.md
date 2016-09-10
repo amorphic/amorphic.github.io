@@ -102,7 +102,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 
 [OpenGB][opengb]
 
-:	OpenGB is a 3D printer control interface written in Python. Printer functions are exposed via a websocket API and called either programatically or by an included touchscreen GUI written in Vue.js.
+:	OpenGB is a 3D printer control interface written in Python. Printer functions are exposed via a websocket API built on Tornado and called either programatically or by an included touchscreen GUI written in Vue.js.
 
 [Braubbuddy][braubuddy]
 
