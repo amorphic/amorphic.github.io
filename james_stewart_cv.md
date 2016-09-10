@@ -7,10 +7,21 @@
 
 ##Employment
 
-###Optiver Asia Pacific - _Sydney, Australia_
-__Tools Developer__ <br> _09/2013 - present_
+###Thermeon Worldwide - _Remote_
+__DevOps Engineer__ <br> _08/2015 - present_
 
-:   Part of a Devops team practicing Kanban and delivering tooling to various departments across the business. 
+:	Member of a geographically distributed DevOps team administering single-tennant client instances of industry-leading automotive rental software.
+
+	* Orchestration of physical and virtual hosts in EU and APAC co-locations using Ansible and Puppet.
+	* Design and development of internal services using Docker containers deployed on Mesos.
+	* Development of internal tools in Ruby and Golang.
+	* Monitoring and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
+	* Working effectively and 100% remotely with Customer Support, Development and Operations staff in various locations around the globe.
+
+###Optiver Asia Pacific - _Sydney, Australia_
+__Tools Developer__ <br> _09/2013 - 07/2015_
+
+:   Member of a Development team practicing Kanban and delivering tooling to various departments across the business.
 
     * Development of numerous microservices built on Flask and Django.
     * Design of RESTful APIs with backends built on Postgresql, Redis and MongoDB.
@@ -20,7 +31,7 @@ __Tools Developer__ <br> _09/2013 - present_
 
 __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
-:   Devops role responsible for the monitoring of highly critical financial trading systems.
+:   DevOps role responsible for the monitoring of highly critical financial trading systems.
 
     * Replaced HP monitoring suite with Zenoss saving ~$200k per annum in licensing + support.
     * Developed Python middleware to integrate Zenoss with Puppet, Active Directory, HP Service Manager and ServiceNow eliminating tedious and error-prone manual tasks.
