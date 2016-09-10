@@ -121,7 +121,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 ###Controlling a 3D Printer with Python
 
 08/2016
-:	PyCon Australia Sydney ([video][opengb_talk])
+:	PyCon Australia Sydney ([video][opengb_talk])([slides][opengb_slides])
 
 07/2016
 :	Sydney Python User Group
@@ -152,3 +152,4 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 [tinysine]: http://www.tinyosshop.com
 [coverlovin]: https://github.com/amorphic/coverlovin
 [opengb_talk]: https://www.youtube.com/watch?v=qgvnPB_77z8
+[opengb_slides]: http://slides.jimter.net/3d_printer_control_with_python/
