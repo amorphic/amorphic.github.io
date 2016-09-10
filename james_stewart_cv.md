@@ -1,9 +1,9 @@
 #James Anthony Stewart
 
-> [jstewart101@gmail.com][email] | [jimter.net][jimternet] | +61 (0) 4666 53513
+> [james@amorphitec.io][email] | [jimter.net][jimternet] | +61 (0) 4666 53513
 
-> DevOps Engineer with over a decade of experience in Operations and an increasing focus on Software Development. Maker and Open Source proponent/contributor with a passion for technology.  
-> Specialising in Linux, Python, Orchestration and Monitoring.
+> Information Technology Engineer with over a decade of experience in Operations and an increasing focus on Software Design and Development. Maker and Open Source proponent/contributor with a life-long passion for technology.
+> Specialising in Linux, Python, IoT, 3D Printing and Monitoring.
 
 ##Employment
 
