@@ -121,7 +121,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 ###Controlling a 3D Printer with Python
 
 08/2016
-:	PyCon Australia Sydney ([video][opengb_talk])([slides][opengb_slides])
+:	PyCon Australia Melbourne ([video][opengb_talk])([slides][opengb_slides])
 
 07/2016
 :	Sydney Python User Group
