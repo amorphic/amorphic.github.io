@@ -74,4 +74,5 @@ img[src*='#banner'] {
     margin: auto;
     width: 600px;
     text-align: center;
+    border-radius: 25px;
 }
