@@ -12,24 +12,42 @@
 ###Thermeon Worldwide - _Remote_
 __DevOps Engineer__ <br> _08/2015 - present_
 
-:	Member of a geographically distributed DevOps team administering single-tennant client instances of industry-leading automotive rental software.
+:	Member of a geographically distributed DevOps team administering industry-leading automotive rental Software as a Service.
 
-	* Orchestration of physical and virtual hosts in EU and APAC co-locations using Ansible and Puppet.
-	* Design and development of internal services using Docker containers deployed on Mesos.
-	* Development of internal tools in Ruby and Golang.
-	* Monitoring and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
-	* Working effectively and 100% remotely with Customer Support, Development and Operations staff in various locations around the globe.
+	* Orchestrated worldwide virtual host configuration mananagement using Ansible and Puppet.
+	* Migrated services from legacy KVM hosting to Google Cloud Platform (GCP) orchestrated with Terraform.
+	* Designed and developed internal services using Docker containers deployed to Mesos.
+	* Developed and maintained monitoring and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
+	* Worked effectively and 100% remotely with Customer Support, Development and Operations staff in various locations around the globe.
+
+###Enstaved - _NSW Central Coast, Australia_
+__Co-founder / Tech Monkey__ <br> _04/2017 - present_
+
+:   Co-founder responsible for the IT infrastructure and manufacturing processes of a growing niche product startup.
+
+    * Developed [shop.enstaved.com][enstaved_shop] using a custom fork of Saleor (e-commerce platform built with Python + Django).
+    * Developed a service to render dynamic custom product images in near-real-time using Flask and OpenSCAD.
+    * Orchestrated hosting of all services using Docker containers deployed with Docker Compose to DigitalOcean droplets.
+    * Developed a scalable production process based on Fused Deposition Modelling (3D Printing) allowing Enstaved to bring custom, locally manufactured physical products to market rapidly and cost-effectively.
+
+###iCrew Events - _Remote_
+__Technical Partner__ <br> _04/2016 - 06/2017_
+
+:   Early-stage partner responsible for development and hosting of a web-based application to manage a roster of sub-contracted event staff.
+
+    * Introduced Founder and Project Manager to Agile development process based on Kanban.
+    * Developed dynamic RESTful API backend using Eve (Python + Flask + MongoDB).
+    * Developed single-page frontend application using Vue.js + Vuex.
 
 ###Optiver Asia Pacific - _Sydney, Australia_
 __Tools Developer__ <br> _09/2013 - 07/2015_
 
 :   Member of a Development team practicing Kanban and delivering tooling to various departments across the business.
 
-    * Development of numerous microservices built on Flask and Django.
-    * Design of RESTful APIs with backends built on Postgresql, Redis and MongoDB.
-    * Development of Python libraries to simplify interaction with internal services.
+    * Developed numerous microservices built on Flask and Django.
+    * Designed RESTful APIs with backends built on Postgresql, Redis and MongoDB.
+    * Developed Python libraries to simplify interaction with internal services.
     * Frontend development using HTML, Twitter Bootstrap, CSS and Javascript/JQuery.
-    * Unlocking the value in Graphite metrics by championing Grafana.
 
 __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
@@ -37,15 +55,15 @@ __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
     * Replaced HP monitoring suite with Zenoss saving ~$200k per annum in licensing + support.
     * Developed Python middleware to integrate Zenoss with Puppet, Active Directory, HP Service Manager and ServiceNow eliminating tedious and error-prone manual tasks.
-    * Implemented systems for operational metric collection and analysis utilising Graphite, StatsD, Django and Apache Flume.
-    * Attended Puppet Advanced training and employed Puppet to orchestrate deployment of software + configuration to a fleet of >500 hosts.
+    * Implemented systems for operational metric collection and analysis utilising Graphite/Grafana, StatsD, Django and Apache Flume.
+    * Attended Puppet Advanced training and employed Puppet to orchestrate deployment to >500 hosts.
 
 ---
 
 ###Travelling - London to Sydney
 __Nomad__ <br> _06/2009 - 02/2010_
 
-:   An epic journey across the planet from London to Sydney without catching planes. Western Europe, the Baltics, Scandinavia, Eastern Europe, the Middle East, (through Turkey, Iran and Pakistan), India, Nepal, Tibet, China and home through South-East Asia.
+:   An epic journey across the planet from London to Sydney without catching planes. Western Europe, the Baltics, Scandinavia, Eastern Europe, the Middle East (via Turkey, Iran and Pakistan), India, Nepal, Tibet, China and home through South-East Asia.
 
     _(Ok so there was one little flight from Bali to Perth but we took the train onward to Sydney)_.
 
@@ -56,24 +74,17 @@ __Systems Manager__ <br> _03/2005 - 06/2009_
 
 :   Senior Systems Administration role responsible for junior sysadmin and all operational aspects of the Beam.tv web site across 3 data centres.
 
-    * Installation and support of CentOS 5.x servers running Apache 2.x and load balanced with LVS to serve >10k unique visitors and >1 million hits/day.
-    * Rollout of New York co-location based on Squid reverse proxies and Citrix WANScaler network accelerators reducing download times for US customers by >50%.
-    * Administration of Oracle 10g RDBMS backend.
-    * Monitoring using Nagios, Cacti and Zenoss.
-    * Implementation of Subversion/TRAC and formal daily code release system.
-    * Management of capex/opex budgets and reporting to senior staff.
+    * Installed and supported CentOS 5.x servers running Apache 2.x and load balanced with LVS to serve >10k unique visitors and >1 million hits/day.
+    * Rolled out New York co-location based on Squid reverse proxies and Citrix WANScaler network accelerators reducing download times for US customers by >50%.
+    * Implemented monitoring using Nagios, Cacti and Zenoss.
+    * Managed capex/opex budgets and reporting to senior staff.
 
 ---
 
 ###InciteMVNE - London, United Kingdom
 __Operations Manager__ <br> _10/2003 - 02/2005_
 
-:   Systems Administration role responsible for all operational aspects of a mobile content delivery system.
-
-    * Installation and support of Redhat ES 3.x servers running in-house mobile phone content delivery system (J2EE/JBoss/Tomcat).
-    * Administration of Oracle 9i RDBMS backend.
-    * Configuration of WLANs and VPNs at client sites for content delivery.
-    * Design and development of football community websites using HTML, XML/XSLT and PHP.
+:   Systems Administration role responsible for all operational aspects of a mobile content delivery system built on J2EE/RedHat/Oracle.
 
 ---
 
@@ -123,7 +134,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 ###Controlling a 3D Printer with Python
 
 08/2016
-:	PyCon Australia Melbourne ([video][opengb_talk])([slides][opengb_slides])
+:	PyCon Australia Melbourne ([video][opengb_talk])
 
 07/2016
 :	Sydney Python User Group
@@ -155,4 +166,5 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 [tinysine]: http://www.tinyosshop.com
 [coverlovin]: https://github.com/amorphic/coverlovin
 [opengb_talk]: https://www.youtube.com/watch?v=qgvnPB_77z8
-[opengb_slides]: http://slides.jimter.net/3d_printer_control_with_python/
+[enstaved_shop]: https://shop.enstaved.com
+[enstaved_www]: https://www.enstaved.com

@@ -68,3 +68,10 @@ a:hover, a:active {
 hr {
     color: #A6A6A6;
 }
+
+img[src*='#banner'] { 
+    display: block;
+    margin: auto;
+    width: 600px;
+    text-align: center;
+}
