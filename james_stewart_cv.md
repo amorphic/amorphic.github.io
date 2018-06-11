@@ -1,8 +1,10 @@
 #James Anthony Stewart
 
+![][james_pythonic]
+
 > [james@amorphitec.io][email] | [jimter.net][jimternet] | +61 (0) 4666 53513
 
-> Information Technology Engineer with over a decade of experience in Operations and an increasing focus on Software Design and Development. Maker and Open Source proponent/contributor with a life-long passion for technology.
+> Information Technology Engineer with over a decade of Operations experience and an increasing focus on Software Design and Development. Maker and Open Source proponent/contributor with a life-long passion for technology.
 > Specialising in Linux, Python, IoT, 3D Printing and Monitoring.
 
 ##Employment
@@ -141,6 +143,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 :   __Red Hat, Inc__
 :   Red Hat Certified Systems Administrator (RHCSA)
 
+[james_pythonic]: images/James_Stewart_Pythonic.jpeg#banner
 [email]: jstewart101@gmail.com
 [twitter]: https://twitter.com/amorphic
 [github]: https://github.com/amorphic
