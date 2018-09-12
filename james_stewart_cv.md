@@ -2,7 +2,7 @@
 
 ![][james_pythonic]
 
-> [james@amorphitec.io][email] | [jimter.net][jimternet] | +61 (0) 4666 53513
+> [james@amorphitec.io][email] | @[amorphic][twitter] | [jimter.net][jimternet] | +61 (0) 4666 53513
 
 > Information Technology Engineer with over a decade of Operations experience and an increasing focus on Software Design and Development. Maker and Open Source proponent/contributor with a life-long passion for technology.
 > Specialising in Linux, Python, IoT, 3D Printing and Monitoring.
