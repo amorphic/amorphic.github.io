@@ -1,0 +1,10 @@
+@import "james_stewart_cv.css"; 
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 800px;
+    margin: auto;
+    background: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
