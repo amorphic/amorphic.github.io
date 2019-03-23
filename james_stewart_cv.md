@@ -15,7 +15,7 @@ __Technical Lead__ <br> _01/2019 - present_
 
     * Introduced kanban board and agile concepts to bring structure to the software development process.
 
-### Enstaved - _NSW Central Coast, Australia_
+### [Enstaved][enstaved_www] - _NSW Central Coast, Australia_
 __Co-founder / Tech Monkey__ <br> _04/2017 - present_
 
 :   Co-founder responsible for the IT infrastructure and manufacturing processes of a growing niche product startup.
@@ -25,7 +25,16 @@ __Co-founder / Tech Monkey__ <br> _04/2017 - present_
     * Orchestrated hosting of all services using Docker containers deployed with Docker Compose to DigitalOcean droplets.
     * Developed a scalable production process based on Fused Deposition Modelling (3D Printing) allowing Enstaved to bring custom, locally manufactured physical products to market rapidly and cost-effectively.
 
-### Thermeon Worldwide - _Remote_
+### [Availery][availery] - _NSW Central Coast, Australia_
+__Consulting DevOps Engineer__ <br> _01/2019 - 03/2019_
+
+:	Consultant responsible for the migration of availery.com infrastructure to Amazon Web Services.
+
+	* Migrated web services from legacy single-VM hosting to AWS utilising EC2, RDS, ELB, S3 and EFS.
+    * Created automated build pipelines using CodeBuild/CodePipeline/CodeDeploy.
+    * Orchestrated infrastructure configuration and deployment using Terraform and Ansible.
+
+### [Thermeon][thermeon] - _Remote_
 __DevOps Engineer__ <br> _08/2015 - 12/2018_
 
 :	Member of a geographically distributed DevOps team administering industry-leading automotive rental Software as a Service.
@@ -36,7 +45,7 @@ __DevOps Engineer__ <br> _08/2015 - 12/2018_
 	* Developed and maintained monitoring and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
 	* Worked effectively and 100% remotely with Customer Support, Development and Operations staff in various locations around the globe.
 
-### iCrew Events - _Remote_
+### [iCrew][icrew] - _Remote_
 __Technical Partner__ <br> _04/2016 - 06/2017_
 
 :   Early-stage partner responsible for development and hosting of a web-based application to manage a roster of sub-contracted event staff.
@@ -45,7 +54,7 @@ __Technical Partner__ <br> _04/2016 - 06/2017_
     * Developed dynamic RESTful API backend using Eve (Python + Flask + MongoDB).
     * Developed single-page frontend application using Vue.js + Vuex.
 
-### Optiver Asia Pacific - _Sydney, Australia_
+### [Optiver Asia Pacific][optiver_ap] - _Sydney, Australia_
 __Tools Developer__ <br> _09/2013 - 07/2015_
 
 :   Member of a Development team practicing Kanban and delivering tooling to various departments across the business.
@@ -75,7 +84,7 @@ __Nomad__ <br> _06/2009 - 02/2010_
 
 ---
 
-### Beam.tv/The Mill - London, United Kingdom
+### [Beam.tv][beamtv]/[The Mill][the_mill] - London, United Kingdom
 __Systems Manager__ <br> _03/2005 - 06/2009_
 
 :   Senior Systems Administration role responsible for junior sysadmin and all operational aspects of the Beam.tv web site across 3 data centres.
@@ -174,4 +183,10 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 [opengb_talk]: https://www.youtube.com/watch?v=qgvnPB_77z8
 [enstaved_shop]: https://shop.enstaved.com
 [enstaved_www]: https://www.enstaved.com
+[the_mill]: http://www.themill.com
+[beamtv]: https://www.beam.tv/
+[optiver_ap]: https://www.optiver.com/ap/en/
+[icrew]: http://www.icrewservices.com
+[thermeon]: https://www.thermeon.com
+[availery]: https://www.availery.com
 [honesty_box]: https://www.honestybox.com.au
