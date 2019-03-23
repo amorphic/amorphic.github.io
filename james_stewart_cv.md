@@ -8,6 +8,13 @@
 
 ## Employment
 
+### [Honesty Box][honesty_box] - _Sydney, Australia_
+__Technical Lead__ <br> _01/2019 - present_
+
+:   Responsible for technical direction, architecture and engineering for a fleet of 1500+ IoT devices and associated services.
+
+    * Introduced kanban board and agile concepts to bring structure to the software development process.
+
 ### Enstaved - _NSW Central Coast, Australia_
 __Co-founder / Tech Monkey__ <br> _04/2017 - present_
 
@@ -167,3 +174,4 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 [opengb_talk]: https://www.youtube.com/watch?v=qgvnPB_77z8
 [enstaved_shop]: https://shop.enstaved.com
 [enstaved_www]: https://www.enstaved.com
+[honesty_box]: https://www.honestybox.com.au
