@@ -9,7 +9,7 @@
 ## Employment
 
 ### [Honesty Box][honesty_box] - _Sydney, Australia_
-__Technical Lead__ <br> _01/2019 - present_
+__Head of Technology__ <br> _01/2019 - present_
 
 :   Responsible for technical direction, architecture and engineering for a fleet of 1500+ IoT devices and associated services.
 
