@@ -208,6 +208,38 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 :   __Red Hat, Inc__
 :   Red Hat Certified Systems Administrator (RHCSA)
 
+## References
+
+[Sandra Davy][linkedin_sandra]
+
+:   _"I would work with James again in a heart-beat. One of the nicest software engineers/tech people I've had the pleasure of working with in years._
+
+:   _Super talented, calm and thoughtful, solution-oriented, utterly reliable and a person of strength and integrity. With James as the Head of Tech, there wasn't a day that went by where I didn't feel we were in safe, reliable yet also totally innovative hands._
+
+---
+
+[Matt Tett][linkedin_matt]
+
+:   _"James is truly an all rounder._
+
+:   _Grounded in reality, both timeframes and budgets, ensuring deliverables are reliably produced across the team._
+
+:   _Great communicator articulating complex technical tasks and features to a diverse audience from the lay person to the highly technical._
+
+:   _Innovative thinking outside the box to deliver quality product, roadmaps and collaboration using the latest tools._
+
+:   _Patient and calm under pressure._
+
+:   _Bottom line is that I wouldn’t hesitate to personally recommend working with James. And I hope to work with him again in the future._
+
+---
+
+[AJ Moore][linkedin_aj]
+
+:   _"James has been fundamental in turning my tech start-up plans and ideas into reality over the last few years. With a unique mix of tech-savvy, business acumen & people skills: James has been able to translate an evolving vision into a sound technical strategy and innovative digital product. Equal parts agile, collaborative, pragmatic and creative; James crafted clear enabling processes, secure technical environments and has been an invaluable source of solutions and tech wizardry. It’s an added bonus he’s also one of the most genuine and easy-to-work with humans in the industry. Highly recommended."_
+
+Additional references available on [LinkedIn][linkedin_recommendations].
+
 [james_pythonic]: images/James_Stewart_Pythonic.jpeg#banner
 [email]: jstewart101@gmail.com
 [twitter]: https://twitter.com/amorphic
