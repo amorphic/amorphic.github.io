@@ -86,8 +86,7 @@ __DevOps Engineer__ <br> _08/2015 - 12/2018_
 
 :	Member of a geographically distributed DevOps team administering industry-leading automotive rental SaaS [CARS+][cars+].
 
-	* Orchestrated worldwide virtual host configuration mananagement using Ansible and Puppet.
-	* Migrated services from legacy KVM hosting to Google Cloud Platform (GCP) orchestrated with Terraform.
+	* Migrated services from legacy KVM hosting to Google Cloud Platform (GCP) orchestrated with Terraform, Ansible and Puppet.
 	* Designed and developed internal services using Docker containers deployed to Kubernetes (GKE).
 	* Implemented metric/log collection and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
 
