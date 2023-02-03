@@ -166,27 +166,25 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 
 :   Member of a 4-person team responsible for company network of 150 users running Win 98/NT/2k and servers running Redhat Linux, Solaris and Win NT/2K Server.
 
+## Volunteering
+
+[SparkCC][sparkcc] <br> _2014 - present_
+
+:   President and co-founder of SparkCC: a makerspace located on the Central Coast of New South Wales, Australia. Empowering Central Coast residents to make anything that they can imagine.
+
+[Primary Ethics][primary_ethics] <br> _2016 - present_
+
+:   Teaching primary school children to listen empathetically, disagree respectfully, build on each other’s ideas and use evidence and reasoning to make decisions.
+
 ## Projects
-
-[SparkCC][sparkcc]
-
-:   President and co-founder of SparkCC: a makerspace/hackerspace located on the Central Coast of New South Wales, Australia.
-
-[OpenGB][opengb]
-
-:	OpenGB is a 3D printer control interface written in Python. Printer functions are exposed via a websocket API built on Tornado and called either programatically or by an included touchscreen GUI written in Vue.js.
-
-[Braubbuddy][braubuddy]
-
-:   Braubuddy is an Open Source temperature management framework written in Python. Conceived as a means of monitoring and controlling the fermentation temperature of beer.
 
 [Tosr0x][tosr0x]
 
 :   Tosr0x is a Python module for communicating with 'TOSR0x' USB relay controllers made by [TinySine][tinysine].
 
-[CoverLovin][coverlovin]
+[OpenGB][opengb]
 
-:   CoverLovin is an Open Source album cover art downloader written in Python. It recursively traverses a directory structure containing mp3 files and downloads cover art from Google Images based on id3 tags.
+:	OpenGB is a 3D printer control interface written in Python. Printer functions are exposed via a websocket API built on Tornado and called either programatically or by an included touchscreen GUI written in Vue.js.
 
 ## Presentations
 
