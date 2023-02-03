@@ -96,7 +96,7 @@ __DevOps Engineer__ <br> _08/2015 - 12/2018_
 ### [iCrew][icrew] - _Remote_
 __Technical Partner__ <br> _04/2016 - 06/2017_
 
-:   Early-stage partner responsible for development and hosting of a SaaS to manage sub-contracted event staff.
+:   Early-stage partner responsible for development and DevOps for a SaaS to manage sub-contracted event staff.
 
     * Introduced founder and project manager to agile development process based on kanban.
     * Developed dynamic RESTful API backend using [Eve][eve] (Python + Flask + MongoDB).
@@ -115,13 +115,6 @@ __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
 ---
 
-### Travelling - London to Sydney
-__Nomad__ <br> _06/2009 - 02/2010_
-
-:   An epic journey across the planet from London to Sydney without catching planes. _(Ok there was a little flight from Bali to Perth but we took the train onward to Sydney)_.
-
----
-
 ### [Beam.tv][beamtv]/[The Mill][the_mill] - London, United Kingdom
 __Systems Manager__ <br> _03/2005 - 06/2009_
 
@@ -133,13 +126,6 @@ __Systems Manager__ <br> _03/2005 - 06/2009_
 __Operations Manager__ <br> _10/2003 - 02/2005_
 
 :   Systems Administration role responsible for all operational aspects of a mobile content delivery system.
-
----
-
-### Travelling - Europe
-__Nomad__ <br> _05/2003 - 10/2003_
-
-:   Backpacking around Europe embracing new cultures, attending music festivals and acquiring life experience. Settled in London when it became too cold for camping.
 
 ---
 
