@@ -23,15 +23,21 @@ __Head of Technology__ <br> _01/2019 - 01/2021_
     * Championed the development of the Open Source [honestybox-measurement][honestybox_measurement] library.
     * Introduced CI/CD using AWS CodeBuild/CodePipeline/CodeDeploy and Github Actions.
 
-### [Enstaved][enstaved_www] - _NSW Central Coast, Australia_
-__Co-founder / Tech Monkey__ <br> _04/2017 - present_
+---
 
-:   Co-founder responsible for the IT infrastructure and manufacturing processes of a growing niche product startup.
+### [Enstaved][enstaved] - _NSW Central Coast, Australia_
+__Co-founder / CEO / Tech Lead__ <br> _04/2017 - present_
 
-    * Developed [shop.enstaved.com][enstaved_shop] using a custom fork of Saleor (e-commerce platform built with Python + Django).
-    * Developed a service to render dynamic custom product images in near-real-time using Flask and OpenSCAD.
-    * Orchestrated hosting of all services using Docker containers deployed with Docker Compose to DigitalOcean droplets.
-    * Developed a scalable production process based on Fused Deposition Modelling (3D Printing) allowing Enstaved to bring custom, locally manufactured physical products to market rapidly and cost-effectively.
+:   Co-founder responsible for the strategy, technology and manufacturing processes of a growing niche product startup.
+
+    * Raised >AU$150k via crowdfunding campaigns on [Kickstarter][enstaved_kickstarter] and [IndieGoGo][enstaved_indiegogo].
+    * Established an off-shore manufacturing and 3rd-party logistics pipeline for worldwide distribution.
+    * Developed early-stage MVP tooling:
+        * E-commerce store using a custom fork of [Saleor][saleor] (e-commerce platform built with Python + Django).
+        * Service to render dynamic custom product images in near-real-time using Flask and OpenSCAD.
+        * Production process based on Fused Deposition Modelling (3D Printing) to bring custom, locally manufactured physical products to market rapidly and cost-effectively.
+
+---
 
 ### [Availery][availery] - _NSW Central Coast, Australia_
 __Consulting DevOps Engineer__ <br> _01/2019 - 03/2019_
