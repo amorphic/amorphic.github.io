@@ -168,7 +168,7 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 
 [SparkCC][sparkcc] <br> _2014 - present_
 
-:   President and co-founder of SparkCC: a makerspace located on the Central Coast of New South Wales, Australia. Empowering Central Coast residents to make anything that they can imagine.
+:   President and co-founder of [SparkCC][sparkcc]: a makerspace located on the Central Coast of NSW, Australia. Empowering people to make anything that they can imagine.
 
 [Primary Ethics][primary_ethics] <br> _2016 - present_
 
