@@ -1,7 +1,7 @@
 
 ![][james_pythonic]
 
-> [james@amorphitec.io][email] | @[amorphic][twitter] | [@amorphic@mastodon.au][mastodon] | +61 (0) 4666 53513
+> [james@amorphitec.io][email] | [+61 4666 53513][telephone] | [Twitter][twitter] | [Mastodon][mastodon] | [GitHub][github] | [LinkedIn][linkedin]
 
 > Technologist with a background in software development + devops and an increasing focus on technical leadership and product development. Maker and Open Source proponent with a life-long passion for technology.
 > Proven experience across a wide range of industries and specialising in Linux, Python, IoT and Cloud.
@@ -127,44 +127,42 @@ __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 ### Travelling - London to Sydney
 __Nomad__ <br> _06/2009 - 02/2010_
 
-:   An epic journey across the planet from London to Sydney without catching planes. Western Europe, the Baltics, Scandinavia, Eastern Europe, the Middle East (via Turkey, Iran and Pakistan), India, Nepal, Tibet, China and home through South-East Asia.
-
-    _(Ok so there was one little flight from Bali to Perth but we took the train onward to Sydney)_.
+:   An epic journey across the planet from London to Sydney without catching planes. _(Ok there was a little flight from Bali to Perth but we took the train onward to Sydney)_.
 
 ---
 
 ### [Beam.tv][beamtv]/[The Mill][the_mill] - London, United Kingdom
 __Systems Manager__ <br> _03/2005 - 06/2009_
 
-:   Senior Systems Administration role. Responsible for junior sysadmin and all operational aspects of a video-sharing SaaS used by the advertising industry and hosted across 3 internationally-distributed data centres.
+:   Senior Systems Administration role. Responsible for junior staff and all operational aspects of a pioneering video-sharing SaaS used by the advertising industry.
 
 ---
 
 ### InciteMVNE - London, United Kingdom
 __Operations Manager__ <br> _10/2003 - 02/2005_
 
-:   Systems Administration role responsible for all operational aspects of a mobile content delivery system built on J2EE/RedHat/Oracle.
+:   Systems Administration role responsible for all operational aspects of a mobile content delivery system.
 
 ---
 
 ### Travelling - Europe
 __Nomad__ <br> _05/2003 - 10/2003_
 
-:   Backpacking around Europe embracing new cultures, attending music festivals and acquiring life experience. Eventually settled in London when money ran low and it became too cold for camping.
+:   Backpacking around Europe embracing new cultures, attending music festivals and acquiring life experience. Settled in London when it became too cold for camping.
 
 ---
 
-### Professional Golfers Association of Australia - Sydney, Australia
+### [Professional Golfers Association][pga] - Sydney, Australia
 __IT Administrator__ <br> _02/2002 - 05/2003_
 
-:   Responsible for all aspects of the PGA’s nationwide IT infrastructure, (50 users throughout national head office and 4 state offices). Introduced Open Source solutions to save this member-based organisation significant ongoing licensing costs.
+:   Responsible for the PGA’s nationwide IT infrastructure. Introduced Open Source solutions to save this member-based organisation significant licensing costs.
 
 ---
 
 ### Access Gaming Systems - Sydney, Australia
 __Systems Administrator__ <br> _12/1999 – 02/2002_
 
-:   Member of a 4-person team responsible for company network of 150 users running Win 98/NT/2k and servers running Redhat Linux, Solaris and Win NT/2K Server.
+:   Member of a 4-person team responsible for administering company network of 150 users.
 
 ## Volunteering
 
@@ -241,10 +239,12 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 Additional references available on [LinkedIn][linkedin_recommendations].
 
 [james_pythonic]: images/James_Stewart_Pythonic.jpeg#banner
-[email]: jstewart101@gmail.com
+[email]: mailto:james@amorphitec.io
+[telephone]: tel:+61466653513
 [twitter]: https://twitter.com/amorphic
 [mastodon]: https://mastodon.au/@amorphic
 [github]: https://github.com/amorphic
+[linkedin]: https://www.linkedin.com/in/james-stewart-86a98b11 
 [jimternet]: http://jimter.net
 [sparkcc]: http://sparkcc.org
 [primary_ethics]: https://primaryethics.com.au/
@@ -262,6 +262,7 @@ Additional references available on [LinkedIn][linkedin_recommendations].
 [enstaved_kickstarter]: https://www.kickstarter.com/projects/enstaved/deluxe-d20-staff-of-critical-hits
 [enstaved_indiegogo]: https://www.indiegogo.com/projects/deluxe-d20-staff-of-critical-hits#/
 [saleor]: https://saleor.io/
+[pga]: https://pga.org.au/
 [the_mill]: http://www.themill.com
 [beamtv]: https://www.beam.tv/
 [optiver_ap]: https://www.optiver.com/ap/en/
