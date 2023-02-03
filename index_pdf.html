@@ -5,199 +5,470 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>James Anthony Stewart</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="css/james_stewart_cv.pdf.css" />
 </head>
 <body>
-<header>
+<header id="title-block-header">
 <h1 class="title">James Anthony Stewart</h1>
 </header>
 <p><img src="images/James_Stewart_Pythonic.jpeg#banner" /></p>
 <blockquote>
-<p><a href="jstewart101@gmail.com">james@amorphitec.io</a> | @<a href="https://twitter.com/amorphic">amorphic</a> | <a href="http://jimter.net">jimter.net</a> | +61 (0) 4666 53513</p>
+<p><a href="jstewart101@gmail.com">james@amorphitec.io</a> | @<a
+href="https://twitter.com/amorphic">amorphic</a> | <a
+href="https://mastodon.au/@amorphic"><span class="citation"
+data-cites="amorphic">@amorphic</span><span class="citation"
+data-cites="mastodon.au">@mastodon.au</span></a> | +61 (0) 4666
+53513</p>
 </blockquote>
 <blockquote>
-<p>Information Technology Engineer with over a decade of Operations experience and an increasing focus on Software Design and Development. Maker and Open Source proponent/contributor with a life-long passion for technology. Specialising in Linux, Python, IoT, 3D Printing and Monitoring.</p>
+<p>Technologist with a background in software development + devops and
+an increasing focus on technical leadership and product development.
+Maker and Open Source proponent with a life-long passion for technology.
+Proven experience across a wide range of industries and specialising in
+Linux, Python, IoT and Cloud.</p>
 </blockquote>
 <h2 id="employment">Employment</h2>
-<h3 id="honesty-boxhonesty_box---sydney-australia"><a href="https://www.honestybox.com.au">Honesty Box</a> - <em>Sydney, Australia</em></h3>
+<h3
+id="mason-development-groupmason_development_group---nsw-central-coast-australia"><a
+href="https://www.mason.build">Mason Development Group</a> - <em>NSW
+Central Coast, Australia</em></h3>
 <dl>
-<dt><strong>Head of Technology</strong> <br> <em>01/2019 - present</em></dt>
-<dd><p>Responsible for technical direction, architecture and engineering for a fleet of 1500+ IoT devices and associated services.</p>
+<dt><strong>Technology Team Lead</strong> <br> <em>01/2022 -
+01/2023</em></dt>
+<dd>
+<p>Leader of a nascent team developing a Building Management System
+(BMS) for deployment in light industrial units.</p>
 <ul>
-<li>Introduced kanban board and agile concepts to bring structure to the software development process.</li>
+<li>Introduced user story mapping to distill nebulous product concepts
+into an achieveable MVP.</li>
+<li>Led development of the Mason access control system comprised of:
+<ul>
+<li>Proprietary door controller: hardware developed off-shore and
+software developed in-house.</li>
+<li>Access mangement service built in Python using <a
+href="https://fastapi.tiangolo.com/">FastAPI</a>.</li>
+<li>Frontend components built in Javascript with <a
+href="https://lit.dev/">Lit</a>.</li>
+</ul></li>
+<li>Architected a foundational BMS built on <a
+href="https://www.home-assistant.io/">Home Assistant</a> and
+incorporating the Mason access control system.</li>
+<li>From nothing to production systems installed in customer premises in
+&lt; 9 months.</li>
 </ul>
 </dd>
 </dl>
-<h3 id="enstavedenstaved_www---nsw-central-coast-australia"><a href="https://www.enstaved.com">Enstaved</a> - <em>NSW Central Coast, Australia</em></h3>
+<hr />
+<h3 id="nev-powernev_power---nsw-central-coast-australia"><a
+href="https://nararaecovillage.com/nev-power/">NEV Power</a> - <em>NSW
+Central Coast, Australia</em></h3>
 <dl>
-<dt><strong>Co-founder / Tech Monkey</strong> <br> <em>04/2017 - present</em></dt>
-<dd><p>Co-founder responsible for the IT infrastructure and manufacturing processes of a growing niche product startup.</p>
+<dt><strong>Consulting System Architect &amp; Engineer</strong> <br>
+<em>05/2021 - 11/2021</em></dt>
+<dd>
+<p>Consultant responsible for the architecture and IT engineering of the
+$4.73m ARENA-funded <a
+href="https://arena.gov.au/projects/narara-ecovillage-smart-grid/">NEV
+Smart Grid</a> project.</p>
 <ul>
-<li>Developed <a href="https://shop.enstaved.com">shop.enstaved.com</a> using a custom fork of Saleor (e-commerce platform built with Python + Django).</li>
-<li>Developed a service to render dynamic custom product images in near-real-time using Flask and OpenSCAD.</li>
-<li>Orchestrated hosting of all services using Docker containers deployed with Docker Compose to DigitalOcean droplets.</li>
-<li>Developed a scalable production process based on Fused Deposition Modelling (3D Printing) allowing Enstaved to bring custom, locally manufactured physical products to market rapidly and cost-effectively.</li>
+<li>Applied agile concepts and user story mapping to build a shared
+understanding amongst stakeholders.</li>
+<li>Architected and led development of the Narara Ecovillage Smart Grid
+built around a private LoRaWAN network:
+<ul>
+<li>Modbus/LoRaWAN bridges to collect meter/inverter data and facilitate
+inverter control.</li>
+<li><a href="https://www.thethingsindustries.com/stack/">The Things
+Stack</a> to bridge LoRaWAN and IP networks.</li>
+<li>Modbus RTU/IP gateways to collect BESS, grid controller and site
+meter data.</li>
+<li><a href="https://volttron.org/">Volttron</a> with custom Agents and
+Drivers as core smart grid management system.</li>
+<li>TimesscaleDB and Grafana for time-series data storage and local
+visualisation.</li>
+<li>AWS Lightsail for off-site data replication and visualisation.</li>
+</ul></li>
 </ul>
 </dd>
 </dl>
-<h3 id="availeryavailery---nsw-central-coast-australia"><a href="https://www.availery.com">Availery</a> - <em>NSW Central Coast, Australia</em></h3>
+<hr />
+<h3 id="honesty-boxhonesty_box---sydney-australia"><a
+href="https://honestybox.io">Honesty Box</a> - <em>Sydney,
+Australia</em></h3>
 <dl>
-<dt><strong>Consulting DevOps Engineer</strong> <br> <em>01/2019 - 03/2019</em></dt>
-<dd><p>Consultant responsible for the migration of availery.com infrastructure to Amazon Web Services.</p>
+<dt><strong>Head of Technology</strong> <br> <em>01/2019 -
+01/2021</em></dt>
+<dd>
+<p>Head of a team responsible for a fleet of 1500+ IoT devices and
+associated SaaS services used by <a
+href="https://www.choice.com.au/">Choice</a> and <a
+href="https://www.nbnco.com.au/">NBNCo</a> to monitor the Internet
+connection quality of Australian homes and business.</p>
 <ul>
-<li>Migrated web services from legacy single-VM hosting to AWS utilising EC2, RDS, ELB, S3 and EFS.</li>
-<li>Created automated build pipelines using CodeBuild/CodePipeline/CodeDeploy.</li>
-<li>Orchestrated infrastructure configuration and deployment using Terraform and Ansible.</li>
+<li>Introduced kanban board and agile methodologies + processes to
+Engineering team.</li>
+<li>Provided product and technical direction in response to evolving
+business needs.</li>
+<li>Led ongoing architecture and development of core services:
+<ul>
+<li>Metric collection devices built on ASUS Tinkerboard SBCs running a
+custom Python agent.</li>
+<li>Metric ingestion service built upon AWS IoT, Lambda and
+DynamoDB.</li>
+<li>Metric storage service built upon AWS Kinesis, Lambda, RDS and
+S3.</li>
+<li>Device management service built on Django.</li>
+</ul></li>
+<li>Championed the development of the Open Source <a
+href="https://github.com/honesty-box/honestybox-measurement">honestybox-measurement</a>
+library.</li>
+<li>Introduced CI/CD using AWS CodeBuild/CodePipeline/CodeDeploy and
+Github Actions.</li>
 </ul>
 </dd>
 </dl>
-<h3 id="thermeonthermeon---remote"><a href="https://www.thermeon.com">Thermeon</a> - <em>Remote</em></h3>
+<hr />
+<h3 id="enstavedenstaved---nsw-central-coast-australia"><a
+href="https://enstaved.com">Enstaved</a> - <em>NSW Central Coast,
+Australia</em></h3>
 <dl>
-<dt><strong>DevOps Engineer</strong> <br> <em>08/2015 - 12/2018</em></dt>
-<dd><p>Member of a geographically distributed DevOps team administering industry-leading automotive rental Software as a Service.</p>
+<dt><strong>Co-founder / CEO / Tech Lead</strong> <br> <em>04/2017 -
+present</em></dt>
+<dd>
+<p>Co-founder responsible for the strategy, technology and manufacturing
+processes of a growing niche product startup.</p>
 <ul>
-<li>Orchestrated worldwide virtual host configuration mananagement using Ansible and Puppet.</li>
-<li>Migrated services from legacy KVM hosting to Google Cloud Platform (GCP) orchestrated with Terraform.</li>
-<li>Designed and developed internal services using Docker containers deployed to Mesos and Kubernetes (GKE).</li>
-<li>Developed and maintained monitoring and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.</li>
-<li>Worked effectively and 100% remotely with Customer Support, Development and Operations staff in various locations around the globe.</li>
+<li>Raised &gt;AU$150k via crowdfunding campaigns on <a
+href="https://www.kickstarter.com/projects/enstaved/deluxe-d20-staff-of-critical-hits">Kickstarter</a>
+and <a
+href="https://www.indiegogo.com/projects/deluxe-d20-staff-of-critical-hits#/">IndieGoGo</a>.</li>
+<li>Established an off-shore manufacturing and 3rd-party logistics
+pipeline for worldwide distribution.</li>
+<li>Developed early-stage MVP tooling:
+<ul>
+<li>E-commerce store using a custom fork of <a
+href="https://saleor.io/">Saleor</a> (e-commerce platform built with
+Python + Django).</li>
+<li>Service to render dynamic custom product images in near-real-time
+using Flask and OpenSCAD.</li>
+<li>Production process based on Fused Deposition Modelling (3D Printing)
+to bring custom, locally manufactured physical products to market
+rapidly and cost-effectively.</li>
+</ul></li>
 </ul>
 </dd>
 </dl>
-<h3 id="icrewicrew---remote"><a href="http://www.icrewservices.com">iCrew</a> - <em>Remote</em></h3>
+<hr />
+<h3 id="availeryavailery---nsw-central-coast-australia"><a
+href="https://www.availery.com">Availery</a> - <em>NSW Central Coast,
+Australia</em></h3>
 <dl>
-<dt><strong>Technical Partner</strong> <br> <em>04/2016 - 06/2017</em></dt>
-<dd><p>Early-stage partner responsible for development and hosting of a web-based application to manage a roster of sub-contracted event staff.</p>
+<dt><strong>Consulting DevOps Engineer</strong> <br> <em>01/2019 -
+03/2019</em></dt>
+<dd>
+<p>Consultant responsible for the migration of talent-matching SaaS <a
+href="https://isaptalent.com/">isaptalent</a> to Amazon Web
+Services.</p>
 <ul>
-<li>Introduced Founder and Project Manager to Agile development process based on Kanban.</li>
-<li>Developed dynamic RESTful API backend using Eve (Python + Flask + MongoDB).</li>
+<li>Migrated web services from legacy single-VM hosting to AWS utilising
+EC2, RDS, ELB, S3 and EFS.</li>
+<li>Created automated build pipelines using
+CodeBuild/CodePipeline/CodeDeploy.</li>
+<li>Orchestrated infrastructure configuration and deployment using
+Terraform and Ansible.</li>
+</ul>
+</dd>
+</dl>
+<hr />
+<h3 id="thermeonthermeon---remote"><a
+href="https://www.thermeon.com">Thermeon</a> - <em>Remote</em></h3>
+<dl>
+<dt><strong>DevOps Engineer</strong> <br> <em>08/2015 -
+12/2018</em></dt>
+<dd>
+<p>Member of a geographically distributed DevOps team administering
+industry-leading automotive rental SaaS <a
+href="https://thermeon.com/carsplus/">CARS+</a>.</p>
+<ul>
+<li>Orchestrated worldwide virtual host configuration mananagement using
+Ansible and Puppet.</li>
+<li>Migrated services from legacy KVM hosting to Google Cloud Platform
+(GCP) orchestrated with Terraform.</li>
+<li>Designed and developed internal services using Docker containers
+deployed to Kubernetes (GKE).</li>
+<li>Implemented metric/log collection and analysis using
+Graphite/Grafana and Elasticsearch/Logstash/Kibana.</li>
+</ul>
+</dd>
+</dl>
+<hr />
+<h3 id="icrewicrew---remote"><a
+href="http://www.icrewservices.com">iCrew</a> - <em>Remote</em></h3>
+<dl>
+<dt><strong>Technical Partner</strong> <br> <em>04/2016 -
+06/2017</em></dt>
+<dd>
+<p>Early-stage partner responsible for development and hosting of a SaaS
+to manage sub-contracted event staff.</p>
+<ul>
+<li>Introduced founder and project manager to agile development process
+based on kanban.</li>
+<li>Developed dynamic RESTful API backend using <a
+href="https://docs.python-eve.org">Eve</a> (Python + Flask +
+MongoDB).</li>
 <li>Developed single-page frontend application using Vue.js + Vuex.</li>
 </ul>
 </dd>
 </dl>
-<h3 id="optiver-asia-pacificoptiver_ap---sydney-australia"><a href="https://www.optiver.com/ap/en/">Optiver Asia Pacific</a> - <em>Sydney, Australia</em></h3>
+<hr />
+<h3 id="optiver-asia-pacificoptiver_ap---sydney-australia"><a
+href="https://www.optiver.com/ap/en/">Optiver Asia Pacific</a> -
+<em>Sydney, Australia</em></h3>
 <dl>
-<dt><strong>Tools Developer</strong> <br> <em>09/2013 - 07/2015</em></dt>
-<dd><p>Member of a Development team practicing Kanban and delivering tooling to various departments across the business.</p>
+<dt><strong>Tools Developer</strong> <br> <em>09/2013 -
+07/2015</em></dt>
+<dd>
+<p>Member of a software development team delivering internal tools to
+various departments across the business.</p>
 <ul>
 <li>Developed numerous microservices built on Flask and Django.</li>
-<li>Designed RESTful APIs with backends built on Postgresql, Redis and MongoDB.</li>
-<li>Developed Python libraries to simplify interaction with internal services.</li>
-<li>Frontend development using HTML, Twitter Bootstrap, CSS and Javascript/JQuery.</li>
+<li>Designed RESTful APIs with backends built on Postgresql, Redis and
+MongoDB.</li>
+<li>Developed Python libraries to simplify interaction with internal
+services.</li>
+<li>Frontend development using HTML, Bootstrap, CSS and
+Javascript/JQuery.</li>
 </ul>
 </dd>
-<dt><strong>Monitoring Engineer</strong> <br> <em>04/2010 - 09/2013</em></dt>
-<dd><p>DevOps role responsible for the monitoring of highly critical financial trading systems.</p>
+<dt><strong>Monitoring Engineer</strong> <br> <em>04/2010 -
+09/2013</em></dt>
+<dd>
+<p>DevOps role responsible for the monitoring of highly critical
+financial trading systems.</p>
 <ul>
-<li>Replaced HP monitoring suite with Zenoss saving ~$200k per annum in licensing + support.</li>
-<li>Developed Python middleware to integrate Zenoss with Puppet, Active Directory, HP Service Manager and ServiceNow eliminating tedious and error-prone manual tasks.</li>
-<li>Implemented systems for operational metric collection and analysis utilising Graphite/Grafana, StatsD, Django and Apache Flume.</li>
-<li>Attended Puppet Advanced training and employed Puppet to orchestrate deployment to &gt;500 hosts.</li>
+<li>Replaced HP monitoring suite with Zenoss Core (Open Source) saving
+~$200k per annum.</li>
+<li>Developed Python middleware to integrate Zenoss with Puppet, AD,
+Service Manager and ServiceNow.</li>
+<li>Implemented metric collection and analysis using Graphite/Grafana,
+StatsD, Django and Apache Flume.</li>
 </ul>
 </dd>
 </dl>
 <hr />
-<h3 id="travelling---london-to-sydney">Travelling - London to Sydney</h3>
+<h3 id="travelling---london-to-sydney">Travelling - London to
+Sydney</h3>
 <dl>
 <dt><strong>Nomad</strong> <br> <em>06/2009 - 02/2010</em></dt>
-<dd><p>An epic journey across the planet from London to Sydney without catching planes. Western Europe, the Baltics, Scandinavia, Eastern Europe, the Middle East (via Turkey, Iran and Pakistan), India, Nepal, Tibet, China and home through South-East Asia.</p>
-<p><em>(Ok so there was one little flight from Bali to Perth but we took the train onward to Sydney)</em>.</p>
+<dd>
+<p>An epic journey across the planet from London to Sydney without
+catching planes. Western Europe, the Baltics, Scandinavia, Eastern
+Europe, the Middle East (via Turkey, Iran and Pakistan), India, Nepal,
+Tibet, China and home through South-East Asia.</p>
+<p><em>(Ok so there was one little flight from Bali to Perth but we took
+the train onward to Sydney)</em>.</p>
 </dd>
 </dl>
 <hr />
-<h3 id="beam.tvbeamtvthe-millthe_mill---london-united-kingdom"><a href="https://www.beam.tv/">Beam.tv</a>/<a href="http://www.themill.com">The Mill</a> - London, United Kingdom</h3>
+<h3 id="beam.tvbeamtvthe-millthe_mill---london-united-kingdom"><a
+href="https://www.beam.tv/">Beam.tv</a>/<a
+href="http://www.themill.com">The Mill</a> - London, United Kingdom</h3>
 <dl>
-<dt><strong>Systems Manager</strong> <br> <em>03/2005 - 06/2009</em></dt>
-<dd><p>Senior Systems Administration role responsible for junior sysadmin and all operational aspects of the Beam.tv web site across 3 data centres.</p>
-<ul>
-<li>Installed and supported CentOS 5.x servers running Apache 2.x and load balanced with LVS to serve &gt;10k unique visitors and &gt;1 million hits/day.</li>
-<li>Rolled out New York co-location based on Squid reverse proxies and Citrix WANScaler network accelerators reducing download times for US customers by &gt;50%.</li>
-<li>Implemented monitoring using Nagios, Cacti and Zenoss.</li>
-<li>Managed capex/opex budgets and reporting to senior staff.</li>
-</ul>
+<dt><strong>Systems Manager</strong> <br> <em>03/2005 -
+06/2009</em></dt>
+<dd>
+<p>Senior Systems Administration role. Responsible for junior sysadmin
+and all operational aspects of a video-sharing SaaS used by the
+advertising industry and hosted across 3 internationally-distributed
+data centres.</p>
 </dd>
 </dl>
 <hr />
-<h3 id="incitemvne---london-united-kingdom">InciteMVNE - London, United Kingdom</h3>
+<h3 id="incitemvne---london-united-kingdom">InciteMVNE - London, United
+Kingdom</h3>
 <dl>
-<dt><strong>Operations Manager</strong> <br> <em>10/2003 - 02/2005</em></dt>
-<dd><p>Systems Administration role responsible for all operational aspects of a mobile content delivery system built on J2EE/RedHat/Oracle.</p>
+<dt><strong>Operations Manager</strong> <br> <em>10/2003 -
+02/2005</em></dt>
+<dd>
+<p>Systems Administration role responsible for all operational aspects
+of a mobile content delivery system built on J2EE/RedHat/Oracle.</p>
 </dd>
 </dl>
 <hr />
 <h3 id="travelling---europe">Travelling - Europe</h3>
 <dl>
 <dt><strong>Nomad</strong> <br> <em>05/2003 - 10/2003</em></dt>
-<dd><p>Backpacking around Europe embracing new cultures, attending music festivals and acquiring life experience. Eventually settled in London when money ran low and it became too cold for camping.</p>
+<dd>
+<p>Backpacking around Europe embracing new cultures, attending music
+festivals and acquiring life experience. Eventually settled in London
+when money ran low and it became too cold for camping.</p>
 </dd>
 </dl>
 <hr />
-<h3 id="professional-golfers-association-of-australia---sydney-australia">Professional Golfers Association of Australia - Sydney, Australia</h3>
+<h3
+id="professional-golfers-association-of-australia---sydney-australia">Professional
+Golfers Association of Australia - Sydney, Australia</h3>
 <dl>
-<dt><strong>IT Administrator</strong> <br> <em>02/2002 - 05/2003</em></dt>
-<dd><p>Responsible for all aspects of the PGA’s nationwide IT infrastructure, (50 users throughout national head office and 4 state offices). Introduced Open Source solutions to save this member-based organisation significant ongoing licensing costs.</p>
+<dt><strong>IT Administrator</strong> <br> <em>02/2002 -
+05/2003</em></dt>
+<dd>
+<p>Responsible for all aspects of the PGA’s nationwide IT
+infrastructure, (50 users throughout national head office and 4 state
+offices). Introduced Open Source solutions to save this member-based
+organisation significant ongoing licensing costs.</p>
 </dd>
 </dl>
 <hr />
-<h3 id="access-gaming-systems---sydney-australia">Access Gaming Systems - Sydney, Australia</h3>
+<h3 id="access-gaming-systems---sydney-australia">Access Gaming Systems
+- Sydney, Australia</h3>
 <dl>
-<dt><strong>Systems Administrator</strong> <br> <em>12/1999 – 02/2002</em></dt>
-<dd><p>Member of a 4-person team responsible for company network of 150 users running Win 98/NT/2k and servers running Redhat Linux, Solaris and Win NT/2K Server.</p>
+<dt><strong>Systems Administrator</strong> <br> <em>12/1999 –
+02/2002</em></dt>
+<dd>
+<p>Member of a 4-person team responsible for company network of 150
+users running Win 98/NT/2k and servers running Redhat Linux, Solaris and
+Win NT/2K Server.</p>
+</dd>
+</dl>
+<h2 id="volunteering">Volunteering</h2>
+<dl>
+<dt><a href="http://sparkcc.org">SparkCC</a> <br> <em>2014 -
+present</em></dt>
+<dd>
+<p>President and co-founder of SparkCC: a makerspace located on the
+Central Coast of New South Wales, Australia. Empowering Central Coast
+residents to make anything that they can imagine.</p>
+</dd>
+<dt><a href="https://primaryethics.com.au/">Primary Ethics</a> <br>
+<em>2016 - present</em></dt>
+<dd>
+<p>Teaching primary school children to listen empathetically, disagree
+respectfully, build on each other’s ideas and use evidence and reasoning
+to make decisions.</p>
 </dd>
 </dl>
 <h2 id="projects">Projects</h2>
 <dl>
-<dt><a href="http://sparkcc.org">SparkCC</a></dt>
-<dd><p>President and co-founder of SparkCC: a makerspace/hackerspace located on the Central Coast of New South Wales, Australia.</p>
+<dt><a href="https://github.com/amorphic/tosr0x">Tosr0x</a></dt>
+<dd>
+<p>Tosr0x is a Python module for communicating with ‘TOSR0x’ USB relay
+controllers made by <a
+href="http://www.tinyosshop.com">TinySine</a>.</p>
 </dd>
 <dt><a href="http://opengb.readthedocs.io">OpenGB</a></dt>
-<dd><p>OpenGB is a 3D printer control interface written in Python. Printer functions are exposed via a websocket API built on Tornado and called either programatically or by an included touchscreen GUI written in Vue.js.</p>
-</dd>
-<dt><a href="http://braubuddy.org">Braubbuddy</a></dt>
-<dd><p>Braubuddy is an Open Source temperature management framework written in Python. Conceived as a means of monitoring and controlling the fermentation temperature of beer.</p>
-</dd>
-<dt><a href="https://github.com/amorphic/tosr0x">Tosr0x</a></dt>
-<dd><p>Tosr0x is a Python module for communicating with ‘TOSR0x’ USB relay controllers made by <a href="http://www.tinyosshop.com">TinySine</a>.</p>
-</dd>
-<dt><a href="https://github.com/amorphic/coverlovin">CoverLovin</a></dt>
-<dd><p>CoverLovin is an Open Source album cover art downloader written in Python. It recursively traverses a directory structure containing mp3 files and downloads cover art from Google Images based on id3 tags.</p>
+<dd>
+<p>OpenGB is a 3D printer control interface written in Python. Printer
+functions are exposed via a websocket API built on Tornado and called
+either programatically or by an included touchscreen GUI written in
+Vue.js.</p>
 </dd>
 </dl>
 <h2 id="presentations">Presentations</h2>
-<h3 id="controlling-a-3d-printer-with-python">Controlling a 3D Printer with Python</h3>
+<h3 id="controlling-a-3d-printer-with-python">Controlling a 3D Printer
+with Python</h3>
 <dl>
 <dt>08/2016</dt>
-<dd>PyCon Australia Melbourne (<a href="https://www.youtube.com/watch?v=qgvnPB_77z8">video</a>)
-</dd>
-<dt>07/2016</dt>
-<dd>Sydney Python User Group
+<dd>
+PyCon Australia Melbourne (<a
+href="https://www.youtube.com/watch?v=qgvnPB_77z8">video</a>)
 </dd>
 </dl>
 <h2 id="qualifications">Qualifications</h2>
 <dl>
 <dt>1998-2001</dt>
-<dd><strong>University of Technology, Sydney</strong>
+<dd>
+<strong>University of Technology, Sydney</strong>
 </dd>
-<dd>Bachelor of Science: Computing Science (Honours 2nd Class).
+<dd>
+Bachelor of Science: Computing Science (Honours 2nd Class).
 </dd>
-<dd><em>Sub-major in Computer Graphics.</em>
+<dd>
+<em>Sub-major in Computer Graphics.</em>
 </dd>
 <dt>2012</dt>
-<dd><strong>EXIN</strong>
+<dd>
+<strong>EXIN</strong>
 </dd>
-<dd>ITIL v3 Foundation
+<dd>
+ITIL v3 Foundation
 </dd>
 <dt>2013</dt>
-<dd><strong>Red Hat, Inc</strong>
+<dd>
+<strong>Red Hat, Inc</strong>
 </dd>
-<dd>Red Hat Certified Systems Administrator (RHCSA)
+<dd>
+Red Hat Certified Systems Administrator (RHCSA)
 </dd>
 </dl>
+<h2 id="references">References</h2>
+<dl>
+<dt><a href="https://www.linkedin.com/in/sandra-davey/">Sandra
+Davy</a></dt>
+<dd>
+<p><em>“I would work with James again in a heart-beat. One of the nicest
+software engineers/tech people I’ve had the pleasure of working with in
+years.</em></p>
+</dd>
+<dd>
+<p><em>Super talented, calm and thoughtful, solution-oriented, utterly
+reliable and a person of strength and integrity. With James as the Head
+of Tech, there wasn’t a day that went by where I didn’t feel we were in
+safe, reliable yet also totally innovative hands.</em></p>
+</dd>
+</dl>
+<hr />
+<dl>
+<dt><a href="https://www.linkedin.com/in/mtett/">Matt Tett</a></dt>
+<dd>
+<p><em>“James is truly an all rounder.</em></p>
+</dd>
+<dd>
+<p><em>Grounded in reality, both timeframes and budgets, ensuring
+deliverables are reliably produced across the team.</em></p>
+</dd>
+<dd>
+<p><em>Great communicator articulating complex technical tasks and
+features to a diverse audience from the lay person to the highly
+technical.</em></p>
+</dd>
+<dd>
+<p><em>Innovative thinking outside the box to deliver quality product,
+roadmaps and collaboration using the latest tools.</em></p>
+</dd>
+<dd>
+<p><em>Patient and calm under pressure.</em></p>
+</dd>
+<dd>
+<p><em>Bottom line is that I wouldn’t hesitate to personally recommend
+working with James. And I hope to work with him again in the
+future.</em></p>
+</dd>
+</dl>
+<hr />
+<dl>
+<dt><a href="https://www.linkedin.com/in/findajmoore/">AJ Moore</a></dt>
+<dd>
+<p><em>“James has been fundamental in turning my tech start-up plans and
+ideas into reality over the last few years. With a unique mix of
+tech-savvy, business acumen &amp; people skills: James has been able to
+translate an evolving vision into a sound technical strategy and
+innovative digital product. Equal parts agile, collaborative, pragmatic
+and creative; James crafted clear enabling processes, secure technical
+environments and has been an invaluable source of solutions and tech
+wizardry. It’s an added bonus he’s also one of the most genuine and
+easy-to-work with humans in the industry. Highly recommended.”</em></p>
+</dd>
+</dl>
+<p>Additional references available on <a
+href="https://www.linkedin.com/in/james-stewart-86a98b11/details/recommendations">LinkedIn</a>.</p>
 </body>
 </html>
