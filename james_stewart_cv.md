@@ -39,7 +39,7 @@ __Consulting System Architect & Engineer__ <br> _04/2021 - 11/2021_
 ---
 
 ### [Honesty Box][honesty_box] - _Sydney, Australia_
-__Head of Technology__ <br> _01/2019 - 02/2021_
+__Head of Technology__ <br> _03/2019 - 02/2021_
 
 :   Head of a team responsible for a fleet of 1500+ IoT devices and associated SaaS services used by [Choice][choice] and [NBNCo][nbnco] to monitor the Internet connection quality of Australian homes and business.
 
@@ -52,6 +52,17 @@ __Head of Technology__ <br> _01/2019 - 02/2021_
         * Device management service built on Django.
     * Championed the development of the Open Source [honestybox-measurement][honestybox_measurement] library.
     * Introduced CI/CD using AWS CodeBuild/CodePipeline/CodeDeploy and Github Actions.
+
+---
+
+### [Availery][availery] - _NSW Central Coast, Australia_
+__Consulting DevOps Engineer__ <br> _01/2019 - 04/2019_
+
+:	Consultant responsible for the migration of talent-matching SaaS [isaptalent][isaptalent] to Amazon Web Services.
+
+	* Migrated web services from legacy single-VM hosting to AWS utilising EC2, RDS, ELB, S3 and EFS.
+    * Created automated build pipelines using AWS CodeBuild/CodePipeline/CodeDeploy.
+    * Orchestrated infrastructure configuration and deployment using Terraform and Ansible.
 
 ---
 
@@ -69,23 +80,12 @@ __Co-founder / CEO / Tech Lead__ <br> _04/2017 - present_
 
 ---
 
-### [Availery][availery] - _NSW Central Coast, Australia_
-__Consulting DevOps Engineer__ <br> _01/2019 - 03/2019_
-
-:	Consultant responsible for the migration of talent-matching SaaS [isaptalent][isaptalent] to Amazon Web Services.
-
-	* Migrated web services from legacy single-VM hosting to AWS utilising EC2, RDS, ELB, S3 and EFS.
-    * Created automated build pipelines using CodeBuild/CodePipeline/CodeDeploy.
-    * Orchestrated infrastructure configuration and deployment using Terraform and Ansible.
-
----
-
 ### [Thermeon][thermeon] - _Remote_
 __DevOps Engineer__ <br> _08/2015 - 12/2018_
 
 :	Member of a geographically distributed DevOps team administering industry-leading automotive rental SaaS [CARS+][cars+].
 
-	* Migrated services from legacy KVM hosting to Google Cloud Platform (GCP) orchestrated with Terraform, Ansible and Puppet.
+	* Migrated services from legacy hosting to GCP orchestrated with Terraform, Ansible and Puppet.
 	* Designed and developed internal services using Docker containers deployed to Kubernetes (GKE).
 	* Implemented metric/log collection and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
 
@@ -97,46 +97,46 @@ __Technical Partner__ <br> _04/2016 - 06/2017_
 :   Early-stage partner responsible for development and DevOps for a SaaS to manage sub-contracted event staff.
 
     * Introduced founder and project manager to agile development process based on kanban.
-    * Developed SaaS comprised of RESTful API backend using [Eve][eve] (Python + Flask + MongoDB) and frontend using Vue.js + Vuex.
+    * Developed SaaS comprised of RESTful API backend using [Eve][eve] and frontend using Vue.js/Vuex.
 
 ---
 
 ### [Optiver Asia Pacific][optiver_ap] - _Sydney, Australia_
 __Tools Developer__ <br> _09/2013 - 07/2015_
 
-:   Full stack development role creating internal tools used by various departments across the business.
+:   Full stack development role creating internal tools in Python and Javascript to be used by various departments across the business.
 
 __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
-:   DevOps role using Open Source tools and custom middleware to monitor critical high frequency trading systems.
+:   DevOps role using Open Source tools and custom middleware written in Python to monitor critical high frequency trading systems.
 
 ---
 
 ### [Beam.tv][beamtv]/[The Mill][the_mill] - London, United Kingdom
 __Systems Manager__ <br> _03/2005 - 06/2009_
 
-:   Senior Systems Administration role. Responsible for junior staff and all operational aspects of a pioneering video-sharing SaaS used by the advertising industry.
+:   Senior Systems Administration role. Responsible for junior staff and operation of a pioneering video SaaS used by the advertising industry.
 
 ---
 
 ### InciteMVNE - London, United Kingdom
 __Operations Manager__ <br> _10/2003 - 02/2005_
 
-:   Systems Administration role responsible for all operational aspects of a mobile content delivery system.
+:   Systems Administration role responsible for operation of a pioneering mobile content delivery system used by premier league football clubs.
 
 ---
 
 ### [Professional Golfers Association][pga] - Sydney, Australia
 __IT Administrator__ <br> _02/2002 - 05/2003_
 
-:   Responsible for the PGA’s nationwide IT infrastructure. Introduced Open Source solutions to save this member-based organisation significant licensing costs.
+:   Responsible for the PGA’s nationwide IT infrastructure. Introduced Open Source solutions to eliminate significant ongoing licensing costs.
 
 ---
 
 ### Access Gaming Systems - Sydney, Australia
 __Systems Administrator__ <br> _12/1999 – 02/2002_
 
-:   Member of a 4-person team responsible for administering company network of 150 users.
+:   Member of a service desk team responsible for handling support calls and administering company network of 150 users.
 
 ## Volunteering
 
