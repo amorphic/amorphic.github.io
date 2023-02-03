@@ -193,9 +193,6 @@ __Systems Administrator__ <br> _12/1999 – 02/2002_
 08/2016
 :	PyCon Australia Melbourne ([video][opengb_talk])
 
-07/2016
-:	Sydney Python User Group
-
 ## Qualifications
 
 1998-2001
