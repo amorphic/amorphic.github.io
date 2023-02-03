@@ -22,4 +22,4 @@ cp $FILENAME.pdf.html index_pdf.html
 
 # pdf
 echo "Building ${FILENAME}.pdf"
-/usr/bin/wkhtmltopdf $FILENAME.pdf.html $FILENAME.pdf
+/usr/bin/wkhtmltopdf --enable-local-file-access $FILENAME.pdf.html $FILENAME.pdf
