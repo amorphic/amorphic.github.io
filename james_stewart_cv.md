@@ -9,11 +9,19 @@
 ## Employment
 
 ### [Honesty Box][honesty_box] - _Sydney, Australia_
-__Head of Technology__ <br> _01/2019 - present_
+__Head of Technology__ <br> _01/2019 - 01/2021_
 
-:   Responsible for technical direction, architecture and engineering for a fleet of 1500+ IoT devices and associated services.
+:   Head of a team responsible for a fleet of 1500+ IoT devices and associated SaaS services used by [Choice][choice] and [NBNCo][nbnco] to monitor the Internet connection quality of Australian homes and business.
 
-    * Introduced kanban board and agile concepts to bring structure to the software development process.
+    * Introduced kanban board and agile methodologies + processes to Engineering team.
+    * Provided product and technical direction in response to evolving business needs.
+    * Led ongoing architecture and development of core services:
+        * Metric collection devices built on ASUS Tinkerboard SBCs running a custom Python agent.
+        * Metric ingestion service built upon AWS IoT, Lambda and DynamoDB.
+        * Metric storage service built upon AWS Kinesis, Lambda, RDS and S3.
+        * Device management service built on Django.
+    * Championed the development of the Open Source [honestybox-measurement][honestybox_measurement] library.
+    * Introduced CI/CD using AWS CodeBuild/CodePipeline/CodeDeploy and Github Actions.
 
 ### [Enstaved][enstaved_www] - _NSW Central Coast, Australia_
 __Co-founder / Tech Monkey__ <br> _04/2017 - present_
