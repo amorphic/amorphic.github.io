@@ -28,50 +28,54 @@ __Co-founder / Tech Monkey__ <br> _04/2017 - present_
 ### [Availery][availery] - _NSW Central Coast, Australia_
 __Consulting DevOps Engineer__ <br> _01/2019 - 03/2019_
 
-:	Consultant responsible for the migration of availery.com infrastructure to Amazon Web Services.
+:	Consultant responsible for the migration of talent-matching SaaS [isaptalent][isaptalent] to Amazon Web Services.
 
 	* Migrated web services from legacy single-VM hosting to AWS utilising EC2, RDS, ELB, S3 and EFS.
     * Created automated build pipelines using CodeBuild/CodePipeline/CodeDeploy.
     * Orchestrated infrastructure configuration and deployment using Terraform and Ansible.
 
+---
+
 ### [Thermeon][thermeon] - _Remote_
 __DevOps Engineer__ <br> _08/2015 - 12/2018_
 
-:	Member of a geographically distributed DevOps team administering industry-leading automotive rental Software as a Service.
+:	Member of a geographically distributed DevOps team administering industry-leading automotive rental SaaS [CARS+][cars+].
 
 	* Orchestrated worldwide virtual host configuration mananagement using Ansible and Puppet.
 	* Migrated services from legacy KVM hosting to Google Cloud Platform (GCP) orchestrated with Terraform.
-	* Designed and developed internal services using Docker containers deployed to Mesos and Kubernetes (GKE).
-	* Developed and maintained monitoring and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
-	* Worked effectively and 100% remotely with Customer Support, Development and Operations staff in various locations around the globe.
+	* Designed and developed internal services using Docker containers deployed to Kubernetes (GKE).
+	* Implemented metric/log collection and analysis using Graphite/Grafana and Elasticsearch/Logstash/Kibana.
+
+---
 
 ### [iCrew][icrew] - _Remote_
 __Technical Partner__ <br> _04/2016 - 06/2017_
 
-:   Early-stage partner responsible for development and hosting of a web-based application to manage a roster of sub-contracted event staff.
+:   Early-stage partner responsible for development and hosting of a SaaS to manage sub-contracted event staff.
 
-    * Introduced Founder and Project Manager to Agile development process based on Kanban.
-    * Developed dynamic RESTful API backend using Eve (Python + Flask + MongoDB).
+    * Introduced founder and project manager to agile development process based on kanban.
+    * Developed dynamic RESTful API backend using [Eve][eve] (Python + Flask + MongoDB).
     * Developed single-page frontend application using Vue.js + Vuex.
+
+---
 
 ### [Optiver Asia Pacific][optiver_ap] - _Sydney, Australia_
 __Tools Developer__ <br> _09/2013 - 07/2015_
 
-:   Member of a Development team practicing Kanban and delivering tooling to various departments across the business.
+:   Member of a software development team delivering internal tools to various departments across the business.
 
     * Developed numerous microservices built on Flask and Django.
     * Designed RESTful APIs with backends built on Postgresql, Redis and MongoDB.
     * Developed Python libraries to simplify interaction with internal services.
-    * Frontend development using HTML, Twitter Bootstrap, CSS and Javascript/JQuery.
+    * Frontend development using HTML, Bootstrap, CSS and Javascript/JQuery.
 
 __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
 :   DevOps role responsible for the monitoring of highly critical financial trading systems.
 
-    * Replaced HP monitoring suite with Zenoss saving ~$200k per annum in licensing + support.
-    * Developed Python middleware to integrate Zenoss with Puppet, Active Directory, HP Service Manager and ServiceNow eliminating tedious and error-prone manual tasks.
-    * Implemented systems for operational metric collection and analysis utilising Graphite/Grafana, StatsD, Django and Apache Flume.
-    * Attended Puppet Advanced training and employed Puppet to orchestrate deployment to >500 hosts.
+    * Replaced HP monitoring suite with Zenoss Core (Open Source) saving ~$200k per annum.
+    * Developed Python middleware to integrate Zenoss with Puppet, AD, Service Manager and ServiceNow.
+    * Implemented metric collection and analysis using Graphite/Grafana, StatsD, Django and Apache Flume.
 
 ---
 
@@ -87,12 +91,7 @@ __Nomad__ <br> _06/2009 - 02/2010_
 ### [Beam.tv][beamtv]/[The Mill][the_mill] - London, United Kingdom
 __Systems Manager__ <br> _03/2005 - 06/2009_
 
-:   Senior Systems Administration role responsible for junior sysadmin and all operational aspects of the Beam.tv web site across 3 data centres.
-
-    * Installed and supported CentOS 5.x servers running Apache 2.x and load balanced with LVS to serve >10k unique visitors and >1 million hits/day.
-    * Rolled out New York co-location based on Squid reverse proxies and Citrix WANScaler network accelerators reducing download times for US customers by >50%.
-    * Implemented monitoring using Nagios, Cacti and Zenoss.
-    * Managed capex/opex budgets and reporting to senior staff.
+:   Senior Systems Administration role. Responsible for junior sysadmin and all operational aspects of a video-sharing SaaS used by the advertising industry and hosted across 3 internationally-distributed data centres.
 
 ---
 
