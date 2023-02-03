@@ -24,7 +24,7 @@ __Technology Team Lead__ <br> _01/2022 - 01/2023_
 ---
 
 ### [NEV Power][nev_power] - _NSW Central Coast, Australia_
-__Consulting System Architect & Engineer__ <br> _05/2021 - 11/2021_
+__Consulting System Architect & Engineer__ <br> _04/2021 - 11/2021_
 
 :   Consultant responsible for the architecture and IT engineering of the $4.73m ARENA-funded [NEV Smart Grid][nev_power_arena] project.
 
@@ -40,7 +40,7 @@ __Consulting System Architect & Engineer__ <br> _05/2021 - 11/2021_
 ---
 
 ### [Honesty Box][honesty_box] - _Sydney, Australia_
-__Head of Technology__ <br> _01/2019 - 01/2021_
+__Head of Technology__ <br> _01/2019 - 02/2021_
 
 :   Head of a team responsible for a fleet of 1500+ IoT devices and associated SaaS services used by [Choice][choice] and [NBNCo][nbnco] to monitor the Internet connection quality of Australian homes and business.
 
