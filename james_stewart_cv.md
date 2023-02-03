@@ -98,8 +98,7 @@ __Technical Partner__ <br> _04/2016 - 06/2017_
 :   Early-stage partner responsible for development and DevOps for a SaaS to manage sub-contracted event staff.
 
     * Introduced founder and project manager to agile development process based on kanban.
-    * Developed dynamic RESTful API backend using [Eve][eve] (Python + Flask + MongoDB).
-    * Developed single-page frontend application using Vue.js + Vuex.
+    * Developed SaaS comprised of RESTful API backend using [Eve][eve] (Python + Flask + MongoDB) and frontend using Vue.js + Vuex.
 
 ---
 
