@@ -107,20 +107,11 @@ __Technical Partner__ <br> _04/2016 - 06/2017_
 ### [Optiver Asia Pacific][optiver_ap] - _Sydney, Australia_
 __Tools Developer__ <br> _09/2013 - 07/2015_
 
-:   Member of a software development team delivering internal tools to various departments across the business.
-
-    * Developed numerous microservices built on Flask and Django.
-    * Designed RESTful APIs with backends built on Postgresql, Redis and MongoDB.
-    * Developed Python libraries to simplify interaction with internal services.
-    * Frontend development using HTML, Bootstrap, CSS and Javascript/JQuery.
+:   Full stack development role creating internal tools used by various departments across the business.
 
 __Monitoring Engineer__ <br> _04/2010 - 09/2013_
 
-:   DevOps role responsible for the monitoring of highly critical financial trading systems.
-
-    * Replaced HP monitoring suite with Zenoss Core (Open Source) saving ~$200k per annum.
-    * Developed Python middleware to integrate Zenoss with Puppet, AD, Service Manager and ServiceNow.
-    * Implemented metric collection and analysis using Graphite/Grafana, StatsD, Django and Apache Flume.
+:   DevOps role using Open Source tools and custom middleware to monitor critical high frequency trading systems.
 
 ---
 
