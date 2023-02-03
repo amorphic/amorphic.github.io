@@ -3,8 +3,7 @@
 
 > [james@amorphitec.io][email] | [+61 4666 53513][telephone] | [Twitter][twitter] | [Mastodon][mastodon] | [GitHub][github] | [LinkedIn][linkedin]
 
-> Technologist with a background in software development + devops and an increasing focus on technical leadership and product development. Maker and Open Source proponent with a life-long passion for technology.
-> Proven experience across a wide range of industries and specialising in Linux, Python, IoT and Cloud.
+> Technologist with a background in software development + devops and a recent focus on technical leadership and product development. Maker and Open Source proponent with a life-long passion for technology. Specialist in Linux, Python, IoT and Cloud.
 
 ## Employment
 
