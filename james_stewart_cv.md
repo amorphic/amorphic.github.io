@@ -8,6 +8,37 @@
 
 ## Employment
 
+### [Mason Development Group][mason_development_group] - _NSW Central Coast, Australia_
+__Technology Team Lead__ <br> _01/2022 - 01/2023_
+
+:   Leader of a nascent team developing a Building Management System (BMS) for deployment in light industrial units.
+
+    * Introduced user story mapping to distill nebulous product concepts into an achieveable MVP.
+    * Led development of the Mason access control system comprised of:
+        * Proprietary door controller: hardware developed off-shore and software developed in-house.
+        * Access mangement service built in Python using [FastAPI][fastapi].
+        * Frontend components built in Javascript with [Lit][lit].
+    * Architected a foundational BMS built on [Home Assistant][home_assistant] and incorporating the Mason access control system.
+    * From nothing to production systems installed in customer premises in < 9 months.
+
+---
+
+### [NEV Power][nev_power] - _NSW Central Coast, Australia_
+__Consulting System Architect & Engineer__ <br> _05/2021 - 11/2021_
+
+:   Consultant responsible for the architecture and IT engineering of the $4.73m ARENA-funded [NEV Smart Grid][nev_power_arena] project.
+
+    * Applied agile concepts and user story mapping to build a shared understanding amongst stakeholders.
+    * Architected and led development of the Narara Ecovillage Smart Grid built around a private LoRaWAN network:
+        * Modbus/LoRaWAN bridges to collect meter/inverter data and facilitate inverter control.
+        * [The Things Stack][the_things_stack] to bridge LoRaWAN and IP networks.
+        * Modbus RTU/IP gateways to collect BESS, grid controller and site meter data.
+        * [Volttron][volttron] with custom Agents and Drivers as core smart grid management system.
+        * TimesscaleDB and Grafana for time-series data storage and local visualisation.
+        * AWS Lightsail for off-site data replication and visualisation.
+
+---
+
 ### [Honesty Box][honesty_box] - _Sydney, Australia_
 __Head of Technology__ <br> _01/2019 - 01/2021_
 
