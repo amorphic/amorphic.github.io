@@ -1,10 +1,10 @@
 
 ![][james_pythonic]
 
-> [james@amorphitec.io][email] | @[amorphic][twitter] | [jimter.net][jimternet] | +61 (0) 4666 53513
+> [james@amorphitec.io][email] | @[amorphic][twitter] | [@amorphic@mastodon.au][mastodon] | +61 (0) 4666 53513
 
-> Information Technology Engineer with over a decade of Operations experience and an increasing focus on Software Design and Development. Maker and Open Source proponent/contributor with a life-long passion for technology.
-> Specialising in Linux, Python, IoT, 3D Printing and Monitoring.
+> Technologist with a background in software development + devops and an increasing focus on technical leadership and product development. Maker and Open Source proponent with a life-long passion for technology.
+> Proven experience across a wide range of industries and specialising in Linux, Python, IoT and Cloud.
 
 ## Employment
 
